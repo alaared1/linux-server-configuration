@@ -268,6 +268,13 @@ sudo service apache2 restart
 
 YOU'VE MADE IT!
 
+# References
+
+*   https://eu.udacity.com/course/full-stack-web-developer-nanodegree--nd004
+*   http://www.islandtechph.com/2017/10/23/how-to-deploy-a-flask-python-3-5-application-on-a-live-ubuntu-16-04-linux-server-running-apache2/
+*   https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
+*   https://docs.sqlalchemy.org/en/13/core/engines.html
+
 # More Information
 
 For more information contact me on [alaa.bouhadjeb@gmail.com](mailto:alaa.bouhadjeb@gmail.com)
